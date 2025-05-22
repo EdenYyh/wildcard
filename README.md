@@ -3,7 +3,7 @@
 
 包括但不限于
 
-**ChatGPT 
+ChatGPT 
 Pixiv
 Apple
 Cursor
@@ -12,7 +12,7 @@ Claude
 Google gemini
 Openrouter
 X.ai
-Github**
+Github
 
 ![image-20250521231429258](https://github.com/user-attachments/assets/8fd9e8a1-5294-4c4c-97c4-99ff9c06b953)
 
